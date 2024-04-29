@@ -1,6 +1,4 @@
-#Encoded By : MR.RIKI 
 #Encryption : Py3 Marshal
-#GITHUP.COM: https://github.com/RIKI-CYBER-404
 #Py3 Version : 3.10.4
 
 import marshal
