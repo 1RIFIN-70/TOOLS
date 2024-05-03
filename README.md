@@ -1,16 +1,12 @@
-[✲] TOOLS FOR TEST .!!
-[✲] VIRSHON ➤ 1.1 AND FREE.
-[✲] RUN TOOLS AND SEND KEY.
 [✲] M1 FOR ➤ INDIA & BD MIX.
 [✲] M2 FOR ➤ DATA & NEW SEASON ID.
 
 rm -rf TOOLS
 
-git clone https://github.com/RAJ-141/TOOLS
+git clone https://github.com/1RIFIN-70/TOOLS
 
 cd TOOLS
 
-python FIRE.py
+python BRO.py
 
-[✲] BEST OF LUCK 🤞👌.
-[✲] REMOVE [💙]
+![Uploading Screenshot_2024-05-03-08-35-31-022_com.termux.jpg…]()
